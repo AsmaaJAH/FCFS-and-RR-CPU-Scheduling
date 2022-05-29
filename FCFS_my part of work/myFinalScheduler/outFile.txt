@@ -1,0 +1,43 @@
+0: No process has arrived yet.	
+1: process 2: running 	process 6: ready	
+2: process 2: running 	process 0: ready	process 3: ready	process 7: ready	
+3: process 2: running 	process 1: ready	process 4: ready	process 5: ready	
+4: process 2: running 	
+5: process 2: running 	
+6: process 2: blocked	process 6: running 	
+7: process 2: blocked	process 6: running 	
+8: process 2: blocked	process 6: blocked	process 7: running 	
+9: process 2: blocked	process 6: blocked	process 7: running 	
+10: process 2: blocked	process 6: blocked	process 7: blocked	
+11: process 7: blocked	process 0: blocked	
+12: process 7: blocked	process 0: blocked	process 3: blocked	process 1: running 	
+13: process 0: blocked	process 3: blocked	process 1: running 	
+14: process 0: blocked	process 1: blocked	process 5: running 	
+15: process 1: blocked	process 5: running 	
+16: process 1: blocked	process 5: blocked	
+17: process 1: blocked	process 5: blocked	process 4: blocked	process 2: running 	
+18: process 5: blocked	process 4: blocked	process 2: running 	
+19: process 5: blocked	process 4: blocked	process 2: running 	
+20: process 4: blocked	process 2: running 	
+21: process 2: running 	
+22: process 6: running 	
+23: process 6: running 	
+24: process 7: running 	
+25: process 7: running 	
+26: your whole system is idle for now.
+27: your whole system is idle for now.
+28: process 1: running 	
+29: process 1: running 	
+30: process 5: running 	
+31: process 5: running 	
+
+Finishing time: 31
+CPU utilization : 0.97
+Turnaround time of Process 0: 6
+Turnaround time of Process 1: 27
+Turnaround time of Process 2: 21
+Turnaround time of Process 3: 4
+Turnaround time of Process 4: 7
+Turnaround time of Process 5: 29
+Turnaround time of Process 6: 23
+Turnaround time of Process 7: 24
