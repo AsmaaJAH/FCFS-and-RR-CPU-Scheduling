@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1653523621 source:d:\asmaa 2021\collage\3rd\4. os\2. labs\3\this year\myschedular\main.c
-	<stdio.h>
-	<windows.h>
-	<stdlib.h>
-	<string.h>
-	<ctype.h>
-	<inttypes.h>
-

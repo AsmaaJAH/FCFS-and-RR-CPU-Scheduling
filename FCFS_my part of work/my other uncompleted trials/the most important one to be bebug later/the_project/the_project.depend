@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1653414550 source:d:\asmaa 2021\collage\3rd\4. os\2. labs\3\this year\the_project\main.c
-	<inttypes.h>
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-

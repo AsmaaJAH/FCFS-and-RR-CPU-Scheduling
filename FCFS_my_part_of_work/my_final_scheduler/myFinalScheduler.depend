@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1653858534 source:d:\asmaa 2021\collage\3rd\4. os\2. labs\3\this year\myfinalscheduler\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<ctype.h>
+	<inttypes.h>
+	<iostream>
+	<stdio.h>
+	<list>
+	<vector>
+	<bits/stdc++.h>
+	<string.h>
+
